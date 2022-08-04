@@ -1,5 +1,5 @@
 # github user searcher
-responsive searcher created by react with tailwind css. for api i used axios
+responsive searcher created by react with tailwind css. for shoot api i used axios
 ## Quick Start
 ### Install client dependencies
 ```bash
